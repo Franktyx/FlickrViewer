@@ -1,0 +1,10 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "0db56e138fe4a041ee5a6d58593fa408"
+inputs: 
+- "/Users/yuxiangtang1/Documents/IOS Programming/FlickrViewer/FlickrViewer/FlickrHelper.swift"
+- "/Users/yuxiangtang1/Documents/IOS Programming/FlickrViewer/FlickrViewer/ViewController.swift"
+- "/Users/yuxiangtang1/Documents/IOS Programming/FlickrViewer/FlickrViewer/ResultViewController.swift"
+- "/Users/yuxiangtang1/Documents/IOS Programming/FlickrViewer/FlickrViewer/FlickrPhoto.swift"
+- "/Users/yuxiangtang1/Documents/IOS Programming/FlickrViewer/FlickrViewer/AppDelegate.swift"
+- "/Users/yuxiangtang1/Documents/IOS Programming/FlickrViewer/FlickrViewer/MyNavController.swift"
+- "/Users/yuxiangtang1/Documents/IOS Programming/FlickrViewer/FlickrViewer/ResultCollectionViewCell.swift"

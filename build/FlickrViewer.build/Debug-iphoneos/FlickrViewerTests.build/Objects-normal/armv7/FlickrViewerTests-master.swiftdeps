@@ -1,0 +1,4 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "edb73f6dd606be32f6967b54e5709f07"
+inputs: 
+- "/Users/yuxiangtang1/Documents/IOS Programming/FlickrViewer/FlickrViewerTests/FlickrViewerTests.swift"
